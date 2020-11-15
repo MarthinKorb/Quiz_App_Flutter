@@ -1,3 +1,3 @@
 # Quiz App Flutter
 
-[![QuizApp Flutter](.github/QuizApp_flutter.gif)]
+![QuizApp Flutter](.github/QuizApp_flutter.gif)
